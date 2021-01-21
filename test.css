@@ -12,3 +12,6 @@ body {
 p {
     font-weight: normal;
 }
+.block {
+    display: flex;
+}
