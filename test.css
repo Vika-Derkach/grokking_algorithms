@@ -12,6 +12,7 @@ body {
 }
 p {
     font-weight: normal;
+    font-size: medium;
 }
 .block {
     display: flex;
